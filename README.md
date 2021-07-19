@@ -1,5 +1,5 @@
 <h1>Hi, I am Adarsh Shah</h1>
-<p align="center">
+<center>
 <table border="0">
 <tr>
 <td>
@@ -13,4 +13,4 @@
   </td>
 </tr>
 </table>
-</p>
+</center>
