@@ -1,2 +1,2 @@
 # Hi, I am Adarsh Shah
-(images/oracle-certified-expert-java-ee-6-web-component-developer.png)
+[Oracle Certified Expert](images/oracle-certified-expert-java-ee-6-web-component-developer.png)
