@@ -11,8 +11,8 @@
 
 
 <div align="left">
-  <img width="85px" src="https://github.com/AdarshShah/AboutMe/blob/d758a008e49d4a15088189f97e34c2f937c179c3/images/oracle-certified-associate-java-se-7-programmer.png" />&nbsp;&nbsp;
-  <img width="85px" src="https://github.com/AdarshShah/AboutMe/blob/d758a008e49d4a15088189f97e34c2f937c179c3/images/oracle-certified-professional-java-se-7-programmer.png" />&nbsp;&nbsp;
+  <img width="85px" src="https://github.com/AdarshShah/AboutMe/blob/d758a008e49d4a15088189f97e34c2f937c179c3/images/oracle-certified-associate-java-se-7-programmer.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="85px" src="https://github.com/AdarshShah/AboutMe/blob/d758a008e49d4a15088189f97e34c2f937c179c3/images/oracle-certified-professional-java-se-7-programmer.png" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="85px" src="https://github.com/AdarshShah/AboutMe/blob/d758a008e49d4a15088189f97e34c2f937c179c3/images/oracle-certified-expert-java-ee-6-web-component-developer.png" />   
 </div>
 
