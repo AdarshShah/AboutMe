@@ -20,4 +20,4 @@
 <p>
   I am interested in Mathematics, Competitive Programming, Artificial Intelligence, Machine Learning and a little in Web Component Development. I have experience in C++, Java, SQL, Servlets, JSP and Web Scripting. Looking forward to explore and develop AI, ML solutions (just a newbie).
   </p>
-#
+# &nbsp;
