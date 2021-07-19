@@ -1,4 +1,10 @@
 # Hi, I am Adarsh Shah
+<style>
+  img{
+    height:10px;
+    width:10px;
+  }
+</style>
 <table border="0">
 <tr>
 <td>
