@@ -1,5 +1,5 @@
 # Hi Folks! I am Adarsh Shah.
-### [Gmail](adashah21998@gmail.com) &nbsp; [Codeforces](https://codeforces.com/profile/adashah21998) &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-shah-04ab3453/) 
+### [Gmail](https://adashah21998@gmail.com) &nbsp; [Codeforces](https://codeforces.com/profile/adashah21998) &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-shah-04ab3453/) 
 
 
 | Positions | Organizations |
