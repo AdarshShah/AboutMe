@@ -1,6 +1,6 @@
 <h1>Hi, I am Adarsh Shah</h1>
 <center>
-<table style="border:none">
+<table style="border:0">
 <tr>
 <td>
 <img width="100px" src="https://github.com/AdarshShah/AboutMe/blob/master/images/oracle-certified-associate-java-se-7-programmer.png?raw=true"/>
