@@ -1,4 +1,4 @@
-# Hi Folks! I am Adarsh Shah.
+# Hi Folks!
 ### [Gmail](https://www.adashah21998@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [Codeforces](https://codeforces.com/profile/adashah21998) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-shah-04ab3453/) 
 
 
