@@ -17,5 +17,5 @@
 </div>
 
 #
-I am interested in Mathematics, Competitive Programming, Artificial Intelligence, Machine Learning and a little in Web Component Development. I have experience in C++, Java, SQL, Servlets, JSP and Web Scripting. Looking forward to explore and develop AI, ML solutions.
+I mainly deal with Competitive Programming, Natural Language Understanding, Image Processing, Graph Learning and Statistical Machine Learning paradigms.
 #
